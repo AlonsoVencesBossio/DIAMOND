@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<h1>Cambios de Forma Pokémon</h1>
+<h1>¡Bienvenidos a mi repositorio sobre los cambios de forma Pokémon!</h1>
 
 <input type="text" id="buscador" placeholder="Buscar sección..." onkeyup="buscarSeccion()">
 <ul id="lista-secciones">
@@ -35,6 +35,7 @@ function buscarSeccion() {
 ## <a id="principal"></a>PRINCIPAL
 
 En esta sección se presenta una visión general de los cambios de forma en Pokémon.
+![Image](https://github.com/user-attachments/assets/90a6bf1e-c12f-4725-be02-8f9887bde60d)
 
 ---
 
