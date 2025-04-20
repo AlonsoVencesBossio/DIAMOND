@@ -42,49 +42,49 @@ Cada sección te llevará a una categoría específica, explicando los Pokémon 
 
 ---
 
-## <a id="alola"></a>ALOLA
+## <a id="alola"></a>☀️ALOLA
 
 Las formas de Alola fueron introducidas en Pokémon Sol y Luna...
 
 ---
 
-## <a id="galar"></a>GALAR
+## <a id="galar"></a>🏰GALAR
 
 Las formas Galar aparecieron en Pokémon Espada y Escudo...
 
 ---
 
-## <a id="hisui"></a>HISUI
+## <a id="hisui"></a>🏛️HISUI
 
 Las formas de Hisui surgieron en Leyendas Pokémon: Arceus...
 
 ---
 
-## <a id="paldea"></a>PALDEA
+## <a id="paldea"></a>🔥PALDEA
 
 La región de Paldea nos trajo nuevos Pokémon y formas regionales...
 
 ---
 
-## <a id="convergente"></a>CONVERGENTE
+## <a id="convergente"></a>🔄CONVERGENTE
 
 Los Pokémon convergentes son similares a otros, pero no están relacionados evolutivamente...
 
 ---
 
-## <a id="paradox-pasado"></a>PARADOX PASADO
+## <a id="paradox-pasado"></a>⏳PARADOX PASADO
 
 Pokémon de apariencia antigua, como Colmilargo y Pelarena...
 
 ---
 
-## <a id="paradox-futuro"></a>PARADOX FUTURO
+## <a id="paradox-futuro"></a>⏳PARADOX FUTURO
 
 Pokémon de apariencia futurista como Ferropalmas y Ferropúas...
 
 ---
 
-## <a id="referencias"></a>REFERENCIAS
+## <a id="referencias"></a>🤝REFERENCIAS
 
 - Bulbapedia
 - Pokémon Database
