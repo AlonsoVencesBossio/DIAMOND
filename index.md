@@ -35,6 +35,7 @@ function buscarSeccion() {
 ## <a id="principal"></a>PRINCIPAL
 
 ![Image](https://github.com/user-attachments/assets/90a6bf1e-c12f-4725-be02-8f9887bde60d)
+
 Bienvenido a mi portafolio, soy Alonso Vences. En este proyecto, exploramos cómo los Pokémon cambian su apariencia, tipo y habilidades al adaptarse a diferentes regiones, climas y situaciones.
 ---
 
