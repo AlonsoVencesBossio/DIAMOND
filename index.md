@@ -4,6 +4,8 @@ layout: default
 
 <h1>¡Bienvenidos a mi repositorio sobre los cambios de forma Pokémon!</h1>
 
+![Image](https://github.com/user-attachments/assets/90a6bf1e-c12f-4725-be02-8f9887bde60d)
+
 <input type="text" id="buscador" placeholder="Buscar sección..." onkeyup="buscarSeccion()">
 <ul id="lista-secciones">
   <li><a href="#principal">PRINCIPAL</a></li>
@@ -34,9 +36,11 @@ function buscarSeccion() {
 
 ## <a id="principal"></a>PRINCIPAL
 
-![Image](https://github.com/user-attachments/assets/90a6bf1e-c12f-4725-be02-8f9887bde60d)
+En este sitio encontrarás una recopilación completa de los cambios de forma en Pokémon, organizados por región y tipo. Desde las primeras formas regionales introducidas en Alola, hasta las nuevas variantes Paradoja de Pasado y Futuro en Paldea, pasando por formas únicas como las Convergentes y las exclusivas de Hisui y Galar.
 
-Bienvenido a mi portafolio, soy Alonso Vences. En este proyecto, exploramos cómo los Pokémon cambian su apariencia, tipo y habilidades al adaptarse a diferentes regiones, climas y situaciones.
+Cada sección te llevará a una categoría específica, explicando los Pokémon que cambian su tipo, forma, habilidad o incluso su historia en el lore. También incluimos una sección de Referencias con las fuentes consultadas para asegurar la precisión del contenido.
+
+Este portafolio sirve como una guía visual y explicativa para entender cómo Pokémon ha evolucionado a lo largo de las generaciones a través de sus distintas formas.
 ---
 
 ## <a id="alola"></a>ALOLA
