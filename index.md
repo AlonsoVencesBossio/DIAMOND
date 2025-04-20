@@ -40,7 +40,6 @@ En este sitio encontrarás una recopilación completa de los cambios de forma en
 
 Cada sección te llevará a una categoría específica, explicando los Pokémon que cambian su tipo, forma, habilidad o incluso su historia en el lore. También incluimos una sección de Referencias con las fuentes consultadas para asegurar la precisión del contenido.
 
-Este portafolio sirve como una guía visual y explicativa para entender cómo Pokémon ha evolucionado a lo largo de las generaciones a través de sus distintas formas.
 ---
 
 ## <a id="alola"></a>ALOLA
