@@ -89,3 +89,6 @@ Pokémon de apariencia futurista como Ferropalmas y Ferropúas...
 - Bulbapedia
 - Pokémon Database
 - Sitio oficial de Pokémon
+
+<link rel="stylesheet" href="assets/css/style.css">
+
